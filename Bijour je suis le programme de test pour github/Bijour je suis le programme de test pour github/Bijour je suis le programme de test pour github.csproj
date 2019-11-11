@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Bijour_je_suis_le_programme_de_test_pour_github</RootNamespace>
+  </PropertyGroup>
+
+</Project>
